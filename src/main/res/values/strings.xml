@@ -1,0 +1,13 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">road_app</string>
+    <string-array name="event_types">
+        <item>Collision</item>
+        <item>Stopped Car</item>
+        <item>Fallen Tree</item>
+        <item>Hit Animal</item>
+        <item>Speed Meter</item>
+        <item>Police Patrol</item>
+        <item>Road Maintenance</item>
+    </string-array>
+</resources>
